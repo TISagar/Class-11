@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header img {
+  float: left;
+  margin-top: -72px;
+}
+.header ul li a {
+  list-style: none;
+  text-decoration: none;
+  color: blue;
+  padding: 20px 42px;
+  font-size: 30px;
+  margin-left: 25px;
+}
+.header ul {
+  margin-top: 61px;
+}
+.header ul li a:hover {
+  border-bottom: 2px solid red;
+}
+a.active {
+  border-bottom: 2px solid red;
+}
+.body_img {
+  background-image: url(https://cdn.statically.io/img/wallpaperaccess.com/full/840360.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 98px;
+  overflow: hidden;
+  height: 545px;
+}
+.buttons {
+  text-align: center;
+  margin-top: 96px;
+}
+.buttons a {
+  padding: 20px 30px;
+  background-color: #6f0807;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  margin-left: 17px;
+  border-radius: 20px;
+  border: 2px solid white;
+}
+.about img {
+  width: 400px;
+  margin-top: 14px;
+  margin-left: 20px;
+  border-radius: 33px;
+  border: 5px solid red;
+  float: left;
+}
+h1 {
+  text-align: center;
+  margin-top: 64px;
+  font-size: 60px;
+  font-family: sans-serif;
+  margin-bottom: 72px;
+}
+.about p {
+  font-size: 3pc;
+  margin-left: 460px;
+  margin-top: 229px;
+  color: darkblue;
+  margin-bottom: 164px;
+}
+.c {
+  width: 273px;
+  background-color: #d8b3b3;
+  text-align: center;
+  font-size: 23px;
+  margin-left: 54px;
+  margin-bottom: 40px;
+  float: left;
+  height: 215px;
+}
+i.fab.fa-cuttlefish {
+  font-size: 60px;
+  margin-bottom: 31px;
+  margin-top: 15px;
+}
+i.fab.fa-java {
+  font-size: 60px;
+  margin-bottom: 31px;
+  margin-top: 15px;
+}
+i.fab.fa-html5 {
+  font-size: 60px;
+  margin-bottom: 31px;
+  margin-top: 15px;
+}
+.c h2 {
+  font-size: 81px;
+  margin-bottom: 12px;
+}
+.blogs b1 img {
+  float: left;
+}
+.blogs b2 img {
+  float: right;
+}
+.b1 {
+  width: 650px;
+  float: left;
+}
+.b2 {
+  width: 517px;
+  float: left;
+}
+.b2 p {
+  text-align: center;
+}
+.buttons a:hover {
+  color: #6f0807;
+  background-color: white;
+  border: 2px solid #6f0807;
+}
